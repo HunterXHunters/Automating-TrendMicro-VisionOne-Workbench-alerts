@@ -21,3 +21,5 @@ In this script, we have picked VisionOne workbench alert with category "Possible
 7. As part of containment stratergy, script will block suspicious Highlighted Requests in Suspicious Object Management module from Vision One Threat Intelligence.
 
 8. Script will now update notes to selected workbench alert. Since it is workbench alert which get triggered after a threshold of same alerts, we do not insist to flag the workbench alert to closure and required L2 comments.
+
+![image](https://github.com/HunterXHunters/Automating-TrendMicro-VisionOne-Workbench-alerts/assets/2347778/06986948-06b1-42ac-b313-e3d5f197933d)
