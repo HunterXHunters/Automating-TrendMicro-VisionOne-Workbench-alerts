@@ -1,4 +1,4 @@
-# Automating TrendMicro VisionOne Workbench alerts: "Possible Spear Phishing Attack via Links"
+# Automating TrendMicro VisionOne Workbench alerts: "Detection Model: Possible Spear Phishing Attack via Links"
 
 In this script, we have picked VisionOne workbench alert with category "Possible Spear Phishing Attack via Links" in automating manual tasks which L1 team performing in process of triaging the alert. 
 
